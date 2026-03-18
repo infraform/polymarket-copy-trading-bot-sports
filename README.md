@@ -1,6 +1,6 @@
 # Polymarket Copy Trading Bot
 
-Polymarket Trading Bot(Polymarket Copytrading & Polymarket Arbitrage bot) with full credential management, order execution, market analysis, and automated copytrading & arbitrage trading capabilities.
+Polymarket Copy Trading Bot with full credential management, order execution, market analysis, and automated copytrading & arbitrage trading capabilities.
 
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7+-blue.svg)](https://www.typescriptlang.org/)
